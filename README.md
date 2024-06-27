@@ -43,4 +43,4 @@ I got the highest score in GBM (Gradient Boosting Machine)<br>
 
 | Target Score | Reached Score |
 |--|--|
-| 100 | 94.09 |
+| 100 | 96.30 |
